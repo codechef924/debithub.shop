@@ -19747,6 +19747,9 @@ img {
     /* -------------------------------------------------- */
 
 @media only screen and (max-width: 767px) {
+    header .logo-new {
+        display: flex;
+    }
     header .logo-main {
         display: none;
     }
